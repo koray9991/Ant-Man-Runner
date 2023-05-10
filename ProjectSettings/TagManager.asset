@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Big
+  - Small
+  - Wall
+  - Push
+  - Jump
+  - JumpOver
+  - Tank
+  - Car
+  - Rush
+  - RushOver
+  - Window
+  - Win
+  - Max
+  - Min
+  - Bridge
+  - Enemy
+  - Rope
+  - RopeEnd
+  - TubeEnd
+  - Tube
+  - +X
+  - -X
+  - +Z
+  - Stair
+  - Electric
+  - Hold
+  - HoldOver
+  - Fall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Car
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
